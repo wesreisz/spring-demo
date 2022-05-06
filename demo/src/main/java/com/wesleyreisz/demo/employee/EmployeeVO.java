@@ -1,4 +1,4 @@
-package com.wesleyreisz.demo;
+package com.wesleyreisz.demo.employee;
 
 public class EmployeeVO {
     private int id = 0;
